@@ -25,6 +25,45 @@ body {
     box-shadow: inset 0 -7px 30px rgb(255, 255, 213);
 }
 
+/* nuage */
+.cloud {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border-radius: 40%;
+}
+.cloud1 {
+    position: absolute;
+    left: 5%;
+    top: 6%;
+}
+.cloud2 {
+    position: absolute;
+    left: 7%;
+    top: 3.5%;
+}
+.cloud3 {
+    position: absolute;
+    left: 12%;
+    top: 1%;
+}
+.cloud4 {
+    position: absolute;
+    left: 8%;
+    top: 6%;
+}
+.cloud5 {
+    position: absolute;
+    left: 14%;
+    top: 5%;
+}
+.cloud6 {
+    position: absolute;
+    left: 11%;
+    top: 5%;
+}
+/* fin nuage */
+
 /* FOREGROUND  */
 
 .foreground {
