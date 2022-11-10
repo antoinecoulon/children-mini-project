@@ -4,3 +4,15 @@ body {
     width: 100vw;
     height: 100vh;
 }
+
+.background {
+    width: 100%;
+    height: 80%;
+    background-color: rgb(167, 212, 255);
+}
+
+.foreground {
+    width: 100%;
+    height: 20%;
+    background-color: rgb(245, 245, 245);
+}
